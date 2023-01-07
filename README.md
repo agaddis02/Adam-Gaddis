@@ -71,5 +71,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/adam-t-gaddis-/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adam%20Gaddis&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="/></a>
-<a href="https://www.pinterest.ca/unchartedg"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/unchartedg"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=UnchartedGuru&color=BD081C&logo=Pinterest&logoColor=FFFFFF&label="/></a>
 </p>
