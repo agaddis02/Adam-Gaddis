@@ -40,7 +40,7 @@
 ![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
 ![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Fleet](https://img.shields.io/static/v1?style=for-the-badge&message=JetBrains&color=000000&logo=JetBrains&logoColor=FFFFFF&label=)
+![Fleet](https://img.shields.io/static/v1?style=for-the-badge&message=Fleet&color=000000&logo=JetBrains&logoColor=FFFFFF&label=)
 ![Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
 ![Azure Artifacts](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Artifacts&color=CB2E6D&logo=Azure+Artifacts&logoColor=FFFFFF&label=)
 ![Azure Data Explorer](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Data+Explorer&color=0078D4&logo=Azure+Data+Explorer&logoColor=FFFFFF&label=)
