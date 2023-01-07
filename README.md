@@ -18,6 +18,7 @@
 ![Scala](https://img.shields.io/badge/-scala-05122A?style=flat&logo=scala)&nbsp;
 ![SQL](https://img.shields.io/badge/-sql-05122A?style=flat&logo=sql)&nbsp;
 ![C#](https://img.shields.io/badge/-c#-05122A?style=flat&logo=C#)&nbsp;
+![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
 ![LaTeX](https://img.shields.io/badge/-latex-05122A?style=flat&logo=latex)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
