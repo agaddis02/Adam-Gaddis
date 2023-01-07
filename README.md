@@ -14,12 +14,15 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Scala](https://img.shields.io/badge/-scala-05122A?style=flat&logo=scala)&nbsp;
+
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)&nbsp;
+![Scala](https://img.shields.io/static/v1?style=for-the-badge&message=Scala&color=DC322F&logo=Scala&logoColor=FFFFFF&label=)&nbsp;
 ![SQL](https://img.shields.io/badge/-sql-05122A?style=flat&logo=sql)&nbsp;
-![C#](https://img.shields.io/badge/-c#-05122A?style=flat&logo=C#)&nbsp;
-![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
+![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=)&nbsp;
+
 ![LaTeX](https://img.shields.io/badge/-latex-05122A?style=flat&logo=latex)&nbsp;
+![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)&nbsp;
+![Pytest](https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=0A9EDC&logo=Pytest&logoColor=FFFFFF&label=)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Airflow](https://img.shields.io/badge/-airflow-05122A?style=flat&logo=airflow)&nbsp;
@@ -32,8 +35,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Fleet](https://img.shields.io/badge/-fleet-05122A?style=flat&logo=jetbrains)&nbsp;
-![Azure](https://img.shields.io/badge/-azure-05122A?style=flat&logo=azure)&nbsp;
-![AWS](https://img.shields.io/badge/-azure-05122A?style=flat&logo=azure)&nbsp;
+![Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
+![Azure Artifacts](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Artifacts&color=CB2E6D&logo=Azure+Artifacts&logoColor=FFFFFF&label=)
+![Azure Data Explorer](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Data+Explorer&color=0078D4&logo=Azure+Data+Explorer&logoColor=FFFFFF&label=)
+![Azure DevOps](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+DevOps&color=0078D7&logo=Azure+DevOps&logoColor=FFFFFF&label=)
+![Azure Functions](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Functions&color=0062AD&logo=Azure+Functions&logoColor=FFFFFF&label=)
+![Azure Pipelines](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Pipelines&color=2560E0&logo=Azure+Pipelines&logoColor=FFFFFF&label=)
+![AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+
+![AWS Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=222222&logo=AWS+Lambda&logoColor=FF9900&label=)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
