@@ -1,4 +1,4 @@
-<!-- ## 👋 &nbsp;Hey there! I'm Adam -->
+## 👋 &nbsp;Hey there! I'm Adam
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -70,6 +70,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/adam-t-gaddis"><img src="https://img.shields.io/badge/-Adam%Gaddis-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/adam-t-gaddis"><img src="https://img.shields.io/badge/-Adam%Gaddis-0077B5?style=flat&logo=Linkedin&logoColor=white](https://img.shields.io/static/v1?style=for-the-badge&message=Adam%20Gaddis&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="/></a>
 <a href="https://www.pinterest.ca/unchartedg"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p>
