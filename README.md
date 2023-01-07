@@ -13,8 +13,8 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/agaddis02/Adam-Gaddis/master/lofi girl gif.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
-
-#### 🛠 &nbsp;Programming Language
+</hr>
+#### &nbsp;Programming Language
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)&nbsp;
 ![Scala](https://img.shields.io/static/v1?style=for-the-badge&message=Scala&color=DC322F&logo=Scala&logoColor=FFFFFF&label=)&nbsp;
@@ -22,7 +22,7 @@
 ![SQL](https://img.shields.io/static/v1?style=for-the-badge&message=SQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)&nbsp;
 ![LaTeX](https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=008080&logo=LaTeX&logoColor=FFFFFF&label=)&nbsp;
 
-#### 🛠 &nbsp;General Frameworks & Libraries
+#### &nbsp;General Frameworks & Libraries
 
 ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)&nbsp;
 ![Pytest](https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=0A9EDC&logo=Pytest&logoColor=FFFFFF&label=)&nbsp;
@@ -40,7 +40,7 @@
 ![Streamlit](https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B4B&logo=Streamlit&logoColor=FFFFFF&label=)&nbsp;
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)&nbsp;
 
-#### 🛠 &nbsp;CI/CD & Development
+#### &nbsp;CI/CD & Development
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)&nbsp;
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)&nbsp;
 ![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)&nbsp;
@@ -48,7 +48,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Fleet](https://img.shields.io/static/v1?style=for-the-badge&message=Fleet&color=000000&logo=JetBrains&logoColor=FFFFFF&label=)&nbsp;
 
-#### 🛠 &nbsp;Cloud
+#### &nbsp;Cloud
 ![Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)&nbsp;
 ![Azure Artifacts](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Artifacts&color=CB2E6D&logo=Azure+Artifacts&logoColor=FFFFFF&label=)&nbsp;
 ![Azure Data Explorer](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Data+Explorer&color=0078D4&logo=Azure+Data+Explorer&logoColor=FFFFFF&label=)&nbsp;
