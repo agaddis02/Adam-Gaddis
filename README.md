@@ -18,7 +18,7 @@
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)&nbsp;
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=239120&logo=Go&logoColor=FFFFFF&label=)&nbsp;
-![Scala](https://img.shields.io/static/v1?style=for-the-badge&message=Scala&color=239120&logo=Scala&logoColor=FFFFFF&label=)&nbsp;
+![C-sharp](https://img.shields.io/static/v1?style=for-the-badge&message=c-sharp&color=239120&logo=c-sharp&logoColor=FFFFFF&label=)&nbsp;
 ![SQL](https://img.shields.io/static/v1?style=for-the-badge&message=SQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)&nbsp;
 ![LaTeX](https://img.shields.io/static/v1?style=for-the-badge&message=LaTeX&color=008080&logo=LaTeX&logoColor=FFFFFF&label=)&nbsp;
 
